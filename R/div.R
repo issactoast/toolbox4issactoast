@@ -4,6 +4,7 @@
 #'
 #' @return html syntex div center and image
 #' @importFrom rstudioapi insertText
+#' @export
 insertDivAddin <- function() {
   insertText("
 	<div align=\"center\"> \n
