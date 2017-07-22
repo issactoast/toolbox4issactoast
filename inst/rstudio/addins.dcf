@@ -1,0 +1,4 @@
+Name: Insert div align center
+Description: Inserts div center syntex at the cursor position.
+Binding: insertDivAddin
+Interactive: false
