@@ -1,14 +1,15 @@
 Package: toolbox4issactoast
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Rstudio addins from issactoast
 Version: 0.1.0
 Author: Issac Lee
 Maintainer: Issac Lee <issactoast@gmail.com>
-Description: This package is a collection of issac's Rstudio Addins.
+Description: This package is a collection of my own Rstudio Addins.
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
-Depends: R (>= 3.4.0)
+Depends:
+  R (>= 3.4.0)
 Imports: 
-  rstudioapi (>= 0.6.0)
+  rstudioapi (>= 0.4)
+LazyData: true
 RoxygenNote: 6.0.1

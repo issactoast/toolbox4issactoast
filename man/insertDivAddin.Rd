@@ -6,9 +6,6 @@
 \usage{
 insertDivAddin()
 }
-\value{
-html syntex div center and image
-}
 \description{
 This will generate the html syntax for align center and insert image
 }
