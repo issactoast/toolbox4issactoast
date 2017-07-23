@@ -1,4 +1,14 @@
 Name: Insert div align center
 Description: Inserts div center syntex at the cursor position.
-Binding: insertDivAddin
+Binding: insertDivAddin_c
+Interactive: false
+
+Name: Insert div align left
+Description: Inserts div left syntex at the cursor position.
+Binding: insertDivAddin_l
+Interactive: false
+
+Name: Insert div align right
+Description: Inserts div right syntex at the cursor position.
+Binding: insertDivAddin_r
 Interactive: false
